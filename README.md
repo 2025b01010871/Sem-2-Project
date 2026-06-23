@@ -1,3 +1,3 @@
 # Sem-2-project
 Amazon clone 
-Deployed Link: https://amazonclone-snowy-eta.vercel.app
+Deployed Link: https://amazon-clone-gamma-lake.vercel.app
